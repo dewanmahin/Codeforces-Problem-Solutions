@@ -14,4 +14,4 @@ int main()
     return 0;
 }
 
-// Problem link: https://codeforces.com/contest/236/problem/A
+// Problem link: https://codeforces.com/problemset/problem/236/A
