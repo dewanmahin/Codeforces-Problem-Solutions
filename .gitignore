@@ -1,2 +1,5 @@
-*.exe
-*.txt
+.vscode
+**/Contests/*.exe
+**/Contests/*.txt
+**/Problemset/*.exe
+**/Problemset/*.txt
